@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.moloco.sdk.adapters:applovin:1.2.3.0">
+        </androidPackage>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="MolocoCustomAdapterAppLovin" version="~>1.1.0" />
+    </iosPods>
+</dependencies>
