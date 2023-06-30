@@ -3,7 +3,7 @@
 A demo app that shows how to load and show ads using Moloco Unity plugin.
 Dependency versions:
 - Moloco AppLovin adapter 1.2.x
-- Unity 2021.3.27f1, but should work with other Unity versions.
+- Unity 2021.3.27f1
 - AppLovin MAX 11.10.1 
 
 ## Documentation link:
