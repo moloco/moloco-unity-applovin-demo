@@ -30,6 +30,7 @@ android {
     }**SIGN**
 
     lintOptions {
+        checkReleaseBuilds false
         abortOnError false
     }
 
